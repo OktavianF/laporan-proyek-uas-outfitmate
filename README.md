@@ -7,7 +7,7 @@ OutfitMate is an intelligent web application that provides personalized outfit r
 ## ✨ Key Features
 
 - **Weather-Adaptive Suggestions** - Get outfit recommendations tailored to current weather conditions
-- **Occasion-Based Recommendations** - Perfect outfits for work, parties, dates, and more
+- **Occasion-Based Recommendations** - Perfect outfits for work, parties, and more
 - **Virtual Wardrobe** - Digitally organize your clothing items
 - **Style Preferences** - Learns your fashion taste over time
 - **Mix & Match Generator** - Creates new combinations from your existing clothes
@@ -18,7 +18,7 @@ OutfitMate is an intelligent web application that provides personalized outfit r
    Set your style preferences, body type, and color choices
 
 2. **Build Your Digital Wardrobe**  
-   Upload photos of your clothing items or select from our database
+   Select from our trusted source
 
 3. **Get Recommendations**  
    Receive complete outfit suggestions based on:
@@ -27,15 +27,11 @@ OutfitMate is an intelligent web application that provides personalized outfit r
    - Your personal style
    - Recent fashion trends
 
-4. **Save & Organize**  
-   Bookmark your favorite outfits for future reference
-
 ## 🛠️ Technology Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (React/Vue.js)
+- **Frontend**: HTML5, CSS3 + Talwind, JavaScript React
 - **Backend**: Node.js, PHP
 - **Database**: MySQL
-- **AI Components**: Python for recommendation algorithms
 - **Deployment**: GitHub Pages, Infinityfree
 
 ## 🚧 Prerequisites
@@ -92,10 +88,8 @@ Check out our live demo at: [https://outfit-mate.infinityfreeapp.com/](https://o
 After setting up the app, here’s how you can use **Outfit Mate**:
 
 1. **Sign Up / Log In**: Create an account or log in if you already have one.
-2. **Add Clothes**: Start adding items to your wardrobe. You can categorize them by type (e.g., shirts, pants, shoes).
-3. **Create Outfits**: Select pieces from your wardrobe and combine them to create stylish outfits.
-4. **Plan Your Week**: Sync your outfits with your calendar and plan your week’s outfits in advance.
-5. **Get Inspired**: If you're out of ideas, Outfit Mate will suggest random outfits based on your preferences and the weather.
+2. **Plan Your Week**: Sync your outfits with your calendar and plan your week’s outfits in advance.
+3. **Get Inspired**: If you're out of ideas, Outfit Mate will suggest random outfits based on your preferences and the weather.
 
 ## 🤝 Contributing
 
@@ -106,11 +100,6 @@ We love open-source contributions! If you'd like to contribute to **Outfit Mate*
 3. **Make your changes** and test them locally.
 4. **Push to your fork** and open a pull request.
 
-For more information about contributing, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
