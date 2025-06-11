@@ -53,7 +53,7 @@ To get started with **Outfit Mate** locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/nadhiada/outfitmate.git
+    git clone https://github.com/OktavianF/laporan-proyek-uas-outfitmate.git
     ```
 
 2. Navigate to the project folder:
